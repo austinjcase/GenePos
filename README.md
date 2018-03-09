@@ -1,5 +1,5 @@
 # GenePos
-Package for gene pustulating using multi-pathotype testing.
+Package for gene postulating resistance genes using multi-pathotype testing.
 
 # Introduction
 This package does three main thigns 1). convert 0-4 IT and 0-9 IT to a linear scale 2). Use the unknown line reaction and the 
